@@ -1,8 +1,6 @@
-# UityTutorial01
-First basic Unity Tutorial
+# Uity Samples
 
-This repository was created to hold the script generated while following along to a tutorial presented by Mr Stefan Persson on YoutTube, founder of Imphenzia. The link to that tutorial is below (all credit and copyright for the tutorial belongs to the respective owner):
-https://youtu.be/pwZpJzpE2lQ
+This repository was created to hold sample scripts generated while following along to tutorials and going through some online readings.
 
 Stay awesome,
 EMH
